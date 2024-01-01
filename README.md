@@ -2,7 +2,7 @@
 
 ### About Me👩‍💼
 
-- 👀 I'm Meera, currently working as an Application Development Analyst at Accenture, Bangalore
+- 👀 I'm Meera, currently working as an Application Development Senior Analyst at Accenture, Bangalore
 - 💻 I’m a React JS developer 
 - 🎓 I graduated in 2019 from VJEC, Kannur (B.Tech, ECE) with a CGPA of 8.04
 - 💞️ Interests: Drawing, Painting, Singing etc.
